@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1086555745233",
+    "firebase_url": "https://earning-technic.firebaseio.com",
+    "project_id": "earning-technic",
+    "storage_bucket": "earning-technic.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1086555745233:android:70a884efe6e0d1e3d98ef0",
+        "android_client_info": {
+          "package_name": "blog.video.biswas.earningtechnic"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1086555745233-0drhnb77scog51gk4r6mm9mavt9q7gmt.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "blog.video.biswas.earningtechnic",
+            "certificate_hash": "ef9bd4b7b1c31092880d06de6269bed66d1690f9"
+          }
+        },
+        {
+          "client_id": "1086555745233-kicon9uuod6kvpg5p36edr5giu9hlscv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBSBSoPUbNHN8dh-IPFBStgdf3Msupvmvs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1086555745233-kicon9uuod6kvpg5p36edr5giu9hlscv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
